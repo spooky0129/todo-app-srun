@@ -1,4 +1,4 @@
-module todo_app
+module todo-app-srun
 
 go 1.17
 

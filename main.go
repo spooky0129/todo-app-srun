@@ -2,8 +2,8 @@ package main
 
 import (
 	"fmt"
-	"todo_app_heroku/app/controllers"
-	"todo_app_heroku/app/models"
+	"todo-app-srun/app/controllers"
+	"todo-app-srun/app/models"
 )
 
 func main() {

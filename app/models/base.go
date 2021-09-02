@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"log"
 	"os"
-	"todo_app_heroku/config"
+	"todo-app-srun/config"
 
 	"github.com/google/uuid"
 	"github.com/lib/pq"
